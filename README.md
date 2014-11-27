@@ -1,2 +1,4 @@
-storytime
+Storytime
 =========
+
+Experimentation with swipe gestures. 
