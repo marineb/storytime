@@ -5,7 +5,7 @@ Text copyright by Kate Reyes &amp; illustration copyright by Brenna Vaughan.<br>
 Optimized for the iPad mini.
 
 
-<h2>Credits / Libraries</h2>
+<h3>Credits / Libraries</h3>
 * Swipe gestures: [Swipeshow](https://github.com/rstacruz/swipeshow).
 * Smoother Animations: [jQuery Transit](https://github.com/rstacruz/jquery.transit).
 
