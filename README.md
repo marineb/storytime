@@ -1,6 +1,6 @@
 Storytime
 =========
-A small book for my little cousin Iris.
+A small book for my little cousin Iris.<br>
 Copyright: Kate Reyes's "All About Poop". 
 
 Optimized for the iPad mini. 
