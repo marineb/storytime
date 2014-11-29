@@ -1,8 +1,10 @@
 Storytime
 =========
+A small book for my little cousin Iris.
+Copyright: Kate Reyes's "All About Poop". 
 
-A small book for my little cousin Iris. Based on Kate Reyes's "All About Poop". 
+Optimized for the iPad mini. 
 
 
 <h2>Libraries</h2>
-I am using (Swipeshow|https://github.com/rstacruz/swipeshow) to turn the pages. 
+I am using [Swipeshow](https://github.com/rstacruz/swipeshow) to swipe the pages. 
